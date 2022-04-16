@@ -5,7 +5,7 @@
 1. download the Repo
 2. Open it in Terminal 
 3. copy the .env.example to .env 
-4. create a New Database, then wrtie the db-name, username, password in | env file
+4. create a New Database, then wrtie the db-name, username, password in > env file
 5. then do the following 
 6. `composer install`
 7. `npm install`
